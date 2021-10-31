@@ -1,4 +1,8 @@
-# mentor-search
+# Mentor Search
+A project to help the search for mentors and students. Feel free to collaborate <3
+Hacktoberfest enabled.
+
+Enjoy!
 
 ## Project setup
 ```
