@@ -22,6 +22,7 @@
       padding: 0;
       margin: 0;
     }
+
     #app {
       font-family: 'Noto Sans Mono', sans-serif;
       font-weight: normal;
@@ -30,6 +31,7 @@
       min-height: 100vh;
       text-align: center;
     }
+    
     main {
       flex: 1;
     }
