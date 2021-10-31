@@ -1,8 +1,8 @@
-# Mentor Search
-A project to help the search for mentors and students. Feel free to collaborate <3
+# Mentor Search🔎
+A project to help the search for mentors and students. Feel free to collaborate 💖
 Hacktoberfest enabled.
 
-Enjoy!
+Enjoy! 👩🏼‍💻👨🏼‍💻
 
 ## Project setup
 ```
