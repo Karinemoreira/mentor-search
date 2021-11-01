@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>Footer</p>
+    <p>Feito com ❤️ em 2021</p>
   </footer>
 </template>
 
@@ -11,4 +11,16 @@
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped></style>
+<style scoped>
+footer {
+      width: 100%;
+      height: 30px;
+      background: #8257e7;
+      padding: 15px 0;
+      text-align: center;
+      font-size: 1rem;
+      color: #fff;
+      position: relative;
+      top: 75px;
+}
+</style>
