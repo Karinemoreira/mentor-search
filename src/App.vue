@@ -1,6 +1,7 @@
 <template>
   <Header />
   <main>
+    <SearchBar />
       <router-view />
   </main>
   <Footer />
@@ -8,13 +9,15 @@
 
 <script>
   import Header from "./components/Header.vue";
-    import Footer from "./components/Footer.vue";
+  import SearchBar from "./components/SearchBar.vue";
+  import Footer from "./components/Footer.vue";
 
 
   export default {
     name: "App",
     components: {
-      Header, Footer
+      Header, Footer,
+      SearchBar
     },
   };
 </script>
